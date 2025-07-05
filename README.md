@@ -117,17 +117,6 @@ A quick reference from this project’s roadmap:
 - Any modern text editor (e.g., VS Code)
 - A browser to view your HTML files
 
-### Run Tailwind Watcher (CLI setup)
-```bash
-npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
-Open HTML Files
-bash
-Copy
-Edit
-start 1-index.html   # Windows
-open 1-index.html    # macOS
-📸 Screenshots
-(Add visual screenshots here using GitHub Markdown syntax)
 
 🤝 Contributions
 Have suggestions or improvements? Fork the repo and submit a pull request. Let’s collaborate to build more accessible and beautiful UIs!
