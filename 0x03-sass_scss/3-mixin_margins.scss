@@ -1,0 +1,17 @@
+// This file defines a mixin for applying margins in Sass/SCSS stylesheets
+
+// 8-mixin_margins.scss
+
+@mixin set-horizontal-margins($value) {
+  margin-left: $value;
+  margin-right: $value;
+}
+
+body {
+  @include set-horizontal-margins(10px);
+}
+
+div {
+  @include set-horizontal-margins(15px);
+}
+
